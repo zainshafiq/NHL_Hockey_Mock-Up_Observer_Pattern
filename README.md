@@ -7,10 +7,10 @@ Given the existing application, the objective is to adapt it to provide notiﬁc
 
 Given the existing Java source code given, modify it to allow users to be notiﬁed when a score updates. This notiﬁcation will be given to any user that subscribes to certain teams.
 
--Trevor Douglas 
+- Trevor Douglas 
  
- Software Systems Lab Instructor 
+  Software Systems Lab Instructor 
  
- University of Regina
+  University of Regina
 
 
