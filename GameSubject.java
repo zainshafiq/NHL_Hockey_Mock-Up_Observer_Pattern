@@ -1,3 +1,5 @@
+//GameSubject.java
+
 package NHL_Lab;
 
 public interface GameSubject {
