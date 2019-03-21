@@ -1,6 +1,5 @@
-/**
- * 
- */
+//GameCenter.java
+
 package NHL_Lab;
 
 
