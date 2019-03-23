@@ -1,4 +1,4 @@
-# NHL_Mock-Up_Observer_Pattern
+# NHL_Hockey_Mock-Up_Observer_Pattern
 NHL Game Mock-Up Observer Pattern, tdouglas, ENSE 470 U of R Lab 
 
 The given file is the prototype for a NHL application. Currently it supports 6 teams and will allow creating games for that day and updating the game scores.
