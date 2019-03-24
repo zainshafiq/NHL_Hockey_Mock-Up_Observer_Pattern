@@ -1,4 +1,4 @@
-//NHLFan1.java
+//--------- NHLFan1.java -------------
 
 package NHL_Lab;
 
