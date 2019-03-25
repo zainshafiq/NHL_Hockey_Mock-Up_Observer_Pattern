@@ -1,4 +1,4 @@
-//---------- L03zainuddm.java (Main) ----------------
+//---------- L03zainuddm.java (Main) -----------------
 
 package NHL_Lab;
 
