@@ -1,4 +1,4 @@
-//GameSubject.java
+//---------- GameSubject.java ----------------
 
 package NHL_Lab;
 
