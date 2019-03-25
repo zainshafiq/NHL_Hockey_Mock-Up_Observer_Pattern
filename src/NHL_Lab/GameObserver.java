@@ -1,4 +1,4 @@
-//GameObserver.java
+//---------- GameObserver.java ----------------
 
 package NHL_Lab;
 
