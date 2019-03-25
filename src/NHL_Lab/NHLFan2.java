@@ -1,3 +1,5 @@
+//---------- NHLFan2.java ----------------
+
 package NHL_Lab;
 
 public class NHLFan2 implements GameObserver {
