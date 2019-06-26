@@ -1,4 +1,4 @@
-//---------- GameCenter.java ----------------
+//----------- GameCenter.java ----------------
 
 package NHL_Lab;
 
